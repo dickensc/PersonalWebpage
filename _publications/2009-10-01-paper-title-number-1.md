@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Hinge-Loss Markov Random Fields and Probabilistic Soft Logic"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2017-10-17-Hinge-Loss-Markov-Random-Fields-and-Probabilistic-Soft-Logic
+excerpt: 'This paper provides an overview of Probabilistic Soft Logic (PSL) and Hinge-Loss Markov Random Fields (HL-MRFS)'
+date: 2017-10-17
+venue: 'Journal of Machine Learning Research'
+paperurl: ''
+citation: 'S. H. Bach, M. Broecheler, B. Huang, and L. Getoor, “Hinge-Loss Markov Random Fields and Probabilistic Soft Logic,” p. 67.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper provides an overview of Probabilistic Soft Logic (PSL) and Hinge-Loss Markov Random Fields (HL-MRFS).
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://127.0.0.1:4000/files/bach-jmlr17.pdf)

@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+Currently I don't have any publications, so instead I will share with you my favorite paper at the moment!
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
