@@ -11,8 +11,8 @@ title                    : "Charles Dickens"
 title_separator          : "-"
 name                     : &name "Charles Dicknens"
 description              : &description "Computer Science and Engineering PHD Student at University of California Santa Cruz"
-url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://users.soe.ucsc.edu/cadicken # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/_site" # the subpath of your site, e.g. "/blog"
 repository               : "dickensc/PersonalWebpage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/charles-dickens/"
+  linkedin         : "charles-dickens"
   orcid            :
   pinterest        :
   soundcloud       :
