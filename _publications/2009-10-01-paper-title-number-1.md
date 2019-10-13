@@ -10,4 +10,4 @@ citation: 'S. H. Bach, M. Broecheler, B. Huang, and L. Getoor, “Hinge-Loss Mar
 ---
 This paper provides an overview of Probabilistic Soft Logic (PSL) and Hinge-Loss Markov Random Fields (HL-MRFS).
 
-[Download paper here](https://users.soe.ucsc.edu/cadicken/_site/files/bach-jmlr17.pdf)
+[Download paper here](https://users.soe.ucsc.edu/~cadicken/_site/files/bach-jmlr17.pdf)
