@@ -1,7 +1,7 @@
 ---
 title: "Hinge-Loss Markov Random Fields and Probabilistic Soft Logic"
 collection: publications
-permalink: /publications/2017-10-17-Hinge-Loss-Markov-Random-Fields-and-Probabilistic-Soft-Logic
+permalink: /publications/2017-10-17-Hinge-Loss-Markov-Random-Fields-and-Probabilistic-Soft-Logic.html
 excerpt: 'This paper provides an overview of Probabilistic Soft Logic (PSL) and Hinge-Loss Markov Random Fields (HL-MRFS)'
 date: 2017-10-17
 venue: 'Journal of Machine Learning Research'
