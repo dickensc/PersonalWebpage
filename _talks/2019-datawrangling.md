@@ -8,4 +8,4 @@ date: 2018-05-01
 location: "Honolulu Hi, USA"
 ---
 
-I wrote a self contained course on data wrangling with Python and pandas using Jupyter notebooks and then led a two day workshop at UH Manoa.
+I wrote a self contained [course on data wrangling](https://github.com/hawaiidatascience/pandas_data_wrangling) with Python and pandas using Jupyter notebooks and then led a two day workshop at UH Manoa.

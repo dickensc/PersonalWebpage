@@ -9,5 +9,3 @@ location: "Santa Cruz, USA"
 ---
 
 TA for UCSC CSE Introduction to Algorithms and Analysis
-* Attended and presented lectures
-* Prepared sample solutions to homework problems for graders

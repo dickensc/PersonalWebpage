@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Currently I don't have any publications, so instead I will share with you my favorite paper at the moment!
+For the most up to date reference of publications see the [LINQS publications webpage](https://linqs.github.io/linqs-website/publications/).
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
