@@ -13,81 +13,69 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science and Engineering, University of California Santa Cruz, 2024 (expected)
-* B.S. in Computer Engineering with a Minor in Mathematics, University of Hawaii Manoa, 2019
+* **Ph.D in Computer Science and Engineering**, University of California Santa Cruz, 2024 (expected)
+* **B.S. Summa Cum Laude in Computer Engineering and Mathematics Minor**, University of Hawaii Manoa, 2019
+* **A.S.N.S. in Pre Engineering**, University of Hawaii Community Colleges, 2016
+
+Research experience
+======
+* **PhD Student Researcher** University of California Santa Cruz: Fall 2019 - Present
+  * I am a researcher with the LINQS statistical relational learning (SRL) group led by Prof. Lise Getoor.
+
+* **Undergraduate Researcher** University of Hawaii Manoa: Summer 2018 - Spring 2019
+  * I was a member of the Collaborative Software Development Lab (CSDL) led by Prof. Philip Johnson.
+
+* **Research Fellow** Hawaii Data Science Institute: Summer 2018 - Summer 2019
+  * I was in the first cohort of research fellows with the Hawaii Data Science Institute (HiDSI) directed by Dr. Gwen Jacobs and Dr. Jason Leigh.
+
+* **Undergraduate Researcher** University of Hawaii Manoa: Winter 2017 - Spring 2019
+  * I was an undergraduate researcher with the UH big data lab led by Prof. Narayana Santhanam.
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Work experience
 ======
-* January 2021 - March 2021: Teaching Assistant
-  * UC Santa Cruz
-  * Santa Cruz California
-    * Introduction to Artificial Intelligence: January 2021 - March 2021
-    * Introduction to Algorithms and Analysis: September 2019 - December 2020
+* **Data Science Intern** Clari, Sunnyvale California, Summer 2019
+  * I implemented and demonstrated applications of a sales opportunity similarity metric to department executives. Furthermore, I created a UI framework for future intern demos with REACT, SemanticUI, and D3.js.
 
-* Summer 2019: Data Science Intern
-  * Clari
-  * Sunnyvale California
-  * Researched methods and applications for a new sales opportunity similarity metric.
-    * Demonstrated applications of the metric to department executives and proposed a roadmap for scalable implementation of the feature
-    * Created a UI framework for future demos with REACT, SemanticUI, and D3.js
-
-* Spring 2019: Computer Engineering Intern
-  * University Health Partners of Hawaii
-  * Honolulu Hawaii
-  * Utilized H2O, MapR, and SQL to develop a pipeline for triaging documents for review.
-    * Improved model accuracy by implementing procedures for hyperparameter optimization, model selection, and feature space dimension reduction
-    * Added functionality to extract human interpretable information as to why documents where marked for review
-
-* June 2018 - June 2019: Data Science Fellow
-  * Hawaii Data Science Institute
-  * Honolulu Hawaii
-  * Contributed to data science products and applications across a range of disciplines.
-    * Wrote a course on data wrangling with Python and pandas using Jupyter
-    * Planned and led workshops on Data Science topics.
-
-* December 2016 - August 2018: Math and Science Tutor
-  * Online Learning Academy
-  * Honolulu Hawaii
-  * Tutored STEM related courses from grade school up to the sophomore college level
+* **Data Science Intern** University Health Partners, Honolulu Hawaii, Spring 2019
+  * I utilized H2O, MapR, and SQL to develop a pipeline for triaging health documents for review with a human interpretable explanation. Moreover, I improved model accuracy by implementing procedures for hyperparameter optimization, model selection, and feature space dimensionality reduction.
 
 Skills
 ======
 * PSL
 * Java
 * Python
-  * Pandas
-* C
 * MATLAB
+* C
+* C++
+* Bash
 * SQL
 
-Applications
+Tools
 ======
 * Git
 * GitHub
-* Vi/Vim
 * JetBrains IDEs
+* Vi/Vim
 
-Teaching
+Operating Systems
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Service and leadership
-======
-* Summer 2017: Mentor
-  * University of Hawaii College of Engineering Summer High School Internship Program
-  * Honolulu Hawaii
-  * Taught students the essence of data science and guided them through a project over the 6-week course.
+* Unix/Linux
+* Macintosh

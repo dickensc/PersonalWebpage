@@ -8,4 +8,4 @@ date: 2019-09-01
 location: "Santa Cruz, USA"
 ---
 
-TA for UCSC CSE Introduction to Algorithms and Analysis
+I led discussion sections, hosted office hours, and graded for a course of $50+$ students.
