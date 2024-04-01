@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage! I am Charles, a PhD Computer Science and Engineering student at the University of California Santa Cruz working as a member of the [LINQS](https://linqs.soe.ucsc.edu/home) lab.
-My research interests are generally in machine learning and graphical models.
-I am particularly interested in improving the scalability, performance, and robustness of structured prediction algorithms using modern ideas from optimization.
-I am excited to work on applications related to fair machine learning and online settings.
+Welcome to my webpage! I am Charles, a Ph.D. computer science and engineering candidate at the University of California Santa Cruz.
+My general research interests are in machine learning, modeling richly structured graph data, and empowering AI with domain knowledge and symbolic reasoning capabilities.
+I have developed models for a variety of applications, including computer vision, language modeling, social networks, demand forecasting, and recommendation.
+I am seeking a research engineer role where I can contribute my skills to produce impactful research and products. 
